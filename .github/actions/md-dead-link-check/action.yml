@@ -1,0 +1,5 @@
+name: 'Markdown dead links check'
+description: 'Check Markdown files for dead links'
+runs:
+  using: 'node12'
+  main: 'index.js'
